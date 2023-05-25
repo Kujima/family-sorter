@@ -1,0 +1,6 @@
+﻿NOM;FAMILLE;attribut A;attribut B;attribut C;attribut D;attribut E;attribut F;attribut G
+PRODUIT A;FAMILLE A;X;X;;;;;
+PRODUIT B;FAMILLE B;X;;X;;X;;
+PRODUIT C;FAMILLE B;X;;;X;;;
+PRODUIT D;FAMILLE C;X;;;;;X;X
+PRODUIT E;FAMILLE D;X;;;;;X;
